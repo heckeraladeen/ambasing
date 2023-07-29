@@ -1,0 +1,186 @@
+button {
+    border-radius: 20px
+  
+  }
+
+.cat { 
+  margin-bottom: 0px;
+  font-size: 100px;
+  border-radius: 18px;
+  font-weight: bold;
+  box-shadow: 7px 10px 1px black;
+  background-color: rgba(9, 185, 185, 0.733)
+  
+  
+}
+       
+h2 {
+  margin-top: 20px;
+  font-size: 70px;
+  border-radius: 18px;
+  background-color: rgb(247, 98, 98);
+  box-shadow: 7px 10px 1px rgb(117, 29, 29);
+}
+
+
+h3 {
+  font-size: 50px;
+  border-radius: 18px;
+  box-shadow: 7px 10px 1px black;
+  background-color: rgba(9, 185, 185, 0.733)
+}
+
+
+body {
+  background-color: #aa1e1e;
+  background-size: 30px 20px;
+  background-image: url() 
+
+}
+
+
+.n, .m, .c {
+  border-color: rgb(70, 3, 3);
+  border-radius: 100px 20px;
+  padding-bottom: 30px;
+  color: rgb(245, 194, 194);
+  font-weight: bold;
+  box-shadow:  5px 10px rgb(92, 2, 2);
+  border-width: 7px;
+  font-style: italic;
+}
+
+
+.div {
+  size: 20px;
+}
+
+.bra {
+  height: 400px;
+  margin-right: 100px;
+}
+
+.container {
+  background-color: #42d8d0;
+  background-repeat: repeat;
+  background-position: 0 0;
+  height: 400px;
+  width: 350px;
+  box-shadow:  40px 20px rgba(0, 0, 0, 0.377);
+  border-radius: 100px 30px;
+}
+
+
+div {
+  width: 300px;
+  border: 15px solid rgb(58, 3, 3);
+  padding: 50px;
+  margin: 20px;
+}
+
+.p {
+  background-image: url(https://thumbs.gfycat.com/DefenselessNeighboringDartfrog-size_restricted.gif);
+  margin-left: 100px;
+  color: #ffffff;
+  font-weight: bold;
+  border-radius: 30px;
+  padding-bottom: 30px;
+  padding: 10px;
+  box-shadow:  5px 10px rgba(0, 0, 0, 0.658);
+  text-align: center;
+}
+
+
+.e {
+
+  
+}
+
+input[type="checkbox"] {
+    appearance: checkbox !important;
+}
+
+.h {
+  border-color: rgb(133, 3, 3);
+  border-width: 50px;
+}
+
+.t {
+  background-color: #f15555;
+  text-shadow: #42d8d0;
+}
+
+.big {
+  background-image: url(https://thumbs.gfycat.com/DefenselessNeighboringDartfrog-size_restricted.gif) ;
+  box-shadow:  5px 10px rgba(0, 0, 0, 0.658);
+  color: antiquewhite;
+}
+
+.re {
+  
+  font-weight: bold;
+}
+
+
+.pee {
+  background-image: url(https://thumbs.gfycat.com/DefenselessNeighboringDartfrog-size_restricted.gif);
+  color: #ffffff;
+  box-shadow:  5px 10px rgba(0, 0, 0, 0.658);
+}
+
+
+.tt {
+  background-image: url(https://thumbs.gfycat.com/DefenselessNeighboringDartfrog-size_restricted.gif);
+}
+
+
+.irl {
+  margin-left: 19px;
+  height: 100px;
+  width: 150px
+}
+
+.pee, .tt, .re, .big {
+  padding-bottom: 10px;
+}
+
+.rr, .hh {
+  background-image: url(https://thumbs.gfycat.com/DefenselessNeighboringDartfrog-size_restricted.gif);
+  color: antiquewhite;
+}
+
+.uu{
+  background-color: #f15555;
+  border-color: #aa1e1e;
+  box-shadow:  5px 10px rgba(0, 0, 0, 0.658);
+  margin-bottom: 10px;
+  margin-top: -40px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+.ww {
+  background-color: #f15555;
+  border-color: #aa1e1e;
+  box-shadow:  5px 10px rgba(0, 0, 0, 0.658);
+  margin-bottom: 10px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+.iou {
+  height: 150px;
+  width: 250px;
+  
+}
+
+.drb {
+  height: 100px;
+  width: 150px
+}
+
+
+.ei, .er{
+  height: 100px;
+  width: 150px
+}
