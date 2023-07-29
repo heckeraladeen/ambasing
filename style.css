@@ -3,14 +3,17 @@
 /* Common styles for both mobile and desktop */
 
 /* Mobile styles (for screens up to 767px) */
-@media (max-width: 767px) {
+@media only screen and (max-width: 414px) {
+.text {
   visibility: collapse;
 }
-
-/* Desktop styles (for screens 768px and above) */
-@media (min-width: 768px) {
+.textphone {
   visibility: visible;
 }
+
+}
+  
+
 
 
 
