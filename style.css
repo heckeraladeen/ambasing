@@ -1,3 +1,20 @@
+
+
+/* Common styles for both mobile and desktop */
+
+/* Mobile styles (for screens up to 767px) */
+@media (max-width: 767px) {
+  /* Your mobile-specific styles go here */
+}
+
+/* Desktop styles (for screens 768px and above) */
+@media (min-width: 768px) {
+  /* Your desktop-specific styles go here */
+}
+
+
+
+
 button {
     border-radius: 20px
   
